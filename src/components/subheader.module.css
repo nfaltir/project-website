@@ -23,3 +23,17 @@
   margin-top: -95px;
   padding: 1px;
 }
+
+@media (max-width: 768px) {
+  .subheader_box {
+    max-width: 100%;
+    margin-bottom: -150px;
+  }
+
+  .subheader_title {
+    text-align: center;
+  }
+  .subheader_details {
+    font-size: 1em;
+  }
+}

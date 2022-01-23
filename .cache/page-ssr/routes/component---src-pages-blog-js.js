@@ -1025,7 +1025,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "project_title": () => (/* binding */ project_title),
 /* harmony export */   "project_detail": () => (/* binding */ project_detail),
 /* harmony export */   "specialty_one": () => (/* binding */ specialty_one),
-/* harmony export */   "specialty_two": () => (/* binding */ specialty_two)
+/* harmony export */   "specialty_two": () => (/* binding */ specialty_two),
+/* harmony export */   "subheader_box": () => (/* binding */ subheader_box),
+/* harmony export */   "details": () => (/* binding */ details)
 /* harmony export */ });
 // Exports
 var project_box = "project-module--project_box--1VJFi";
@@ -1033,6 +1035,8 @@ var project_title = "project-module--project_title--1Y3c3";
 var project_detail = "project-module--project_detail--1-lYh";
 var specialty_one = "project-module--specialty_one--1kQEw";
 var specialty_two = "project-module--specialty_two--3KCtE";
+var subheader_box = "project-module--subheader_box--f5sqA";
+var details = "project-module--details--WzHaG";
 
 
 /***/ }),
