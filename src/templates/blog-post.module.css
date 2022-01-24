@@ -79,6 +79,7 @@
     left: 0px;
     font-size: 14px;
     background-color: red;
+    max-width: 100%;
     color: white;
   }
 }
