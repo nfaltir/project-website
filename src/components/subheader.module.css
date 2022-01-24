@@ -32,8 +32,11 @@
 
   .subheader_title {
     text-align: center;
+    font-size: 5em;
   }
   .subheader_details {
-    font-size: 1em;
+    font-size: 12px;
+    color: slategray;
+    padding: 20px;
   }
 }

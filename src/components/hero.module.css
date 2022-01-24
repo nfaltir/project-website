@@ -48,7 +48,7 @@
   font-weight: var(--semibold);
   margin: 0;
   color: #444;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -57,6 +57,8 @@
   text-align: center;
   margin: auto;
   padding: 10px;
+  font-size: 4em;
+  color: slategray;
 }
 
 @media (min-width: 480px) {
